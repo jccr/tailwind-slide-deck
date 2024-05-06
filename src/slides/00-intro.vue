@@ -3,7 +3,7 @@ import tailwindLogo from '../assets/tailwind.svg'
 </script>
 
 <template>
-  <img class="h-16 sm:float-left mr-8" :src="tailwindLogo" />
+  <img class="not-prose h-16 sm:float-left mb-4 sm:mr-4" :src="tailwindLogo" />
   <h1>Hello Tailwind CSS!</h1>
   <p class="lead clear-both">Typography should be easy</p>
   <p>
