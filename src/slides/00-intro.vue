@@ -1,6 +1,11 @@
+<script setup>
+import tailwindLogo from '../assets/tailwind.svg'
+</script>
+
 <template>
-  <h1>Hello World!</h1>
-  <p class="lead">Typography should be easy</p>
+  <img class="h-16 sm:float-left mr-8" :src="tailwindLogo" />
+  <h1>Hello Tailwind CSS!</h1>
+  <p class="lead clear-both">Typography should be easy</p>
   <p>
     Now I'm going to show you an example of an unordered list to make sure that
     looks good, too:
