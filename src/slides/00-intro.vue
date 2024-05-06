@@ -3,8 +3,11 @@ import tailwindLogo from '../assets/tailwind.svg'
 </script>
 
 <template>
-  <img class="not-prose h-16 sm:float-left mb-4 sm:mr-4" :src="tailwindLogo" />
-  <h1>Hello Tailwind CSS!</h1>
+  <h1 class="flex flex-col sm:flex-row gap-4">
+    <img class="not-prose h-16 w-min" :src="tailwindLogo" />
+    <span>Hello Tailwind CSS!</span>
+  </h1>
+  
   <p class="lead clear-both">Typography should be easy</p>
   <p>
     Now I'm going to show you an example of an unordered list to make sure that
