@@ -1,4 +1,5 @@
 <template>
-  <h1>Step 2</h1>
-  <h3>Forget about CSS</h3>
+  <h1>Tailwind UI</h1>
+  <p class="lead">A components library for Tailwind CSS</p>
+  <p>(It can be component-based after all!)</p>
 </template>
