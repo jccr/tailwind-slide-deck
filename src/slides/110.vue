@@ -1,4 +1,4 @@
 <template>
-  <h1>Step 2</h1>
-  <h3>Forget about CSS</h3>
+  <h1>Translating designs to Tailwind</h1>
+  <p class="lead">Using Figma</p>
 </template>

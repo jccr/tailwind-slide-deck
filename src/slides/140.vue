@@ -1,4 +1,4 @@
 <template>
-  <h1>Step 2</h1>
-  <h3>Forget about CSS</h3>
+  <h1>Question time!</h1>
+  <p class="lead">Ask me anything on your mind, and we can explore an answer together.</p>
 </template>

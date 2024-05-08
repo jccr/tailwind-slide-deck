@@ -1,15 +1,6 @@
-<script setup>
-import { ref } from "vue"
-const inputHTML = ref('')
-</script>
 <template>
-  <div class="flex">
-  <div class="flex-none w-[20vw]">
-    <div v-html="inputHTML"></div>
-  </div>
-  <div class="flex-1">
-    <textarea class="text-black font-mono w-full h-[64vh]" @change="inputHTML = $event.target.value">
-    </textarea>
-  </div>
-</div>
+  <h1>Headless UI</h1>
+  <p class="lead">Build using unstyled, behaviour and logic driven components.</p>
+  <p>Bring your own styling to functional JS components.</p>
 </template>
+
