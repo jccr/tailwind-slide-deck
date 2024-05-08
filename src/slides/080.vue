@@ -1,4 +1,8 @@
+<script setup>
+import tailwindLogo from '../assets/tailwind.svg'
+</script>
+
 <template>
-  <h1>Step 2</h1>
-  <h3>Forget about CSS</h3>
+  <img :src="tailwindLogo" />
+  <h1>Tailwind CSS</h1>
 </template>
