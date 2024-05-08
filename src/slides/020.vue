@@ -60,31 +60,25 @@
     
     <pre>
 .btn-primary {
-  border-radius: 0.375rem;
-  background-color: #4f46e5;
-  padding: 0.5rem 0.75rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+  border-radius: $border-radius-default;
+  background-color: $c-indigo-600;
+  padding: $button-padding-y $button-padding-x;
+  font-size: 14px;
+  line-height: 20px;
   font-weight: 600;
-  color: #fff;
+  color: $text-colour;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
 }
 
 .btn-primary:hover {
-  background-color: #6366f1;
-}
-
-.btn-primary:focus-visible {
-  outline: 2px solid #4C6EF5;
-  outline-offset: 2px;
+  background-color: $c-indigo-500;
 }
 </pre
     >
   </details>
 
   <details>
-    <!-- <button type="button" class="rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Button text</button> -->
-    <summary>Forget about naming classes, selectors, BEM...</summary>
+    <summary>or coming up with names for classes & unlearn conventions like BEM <sup>(Block Element Modifier)</sup></summary>
     <div class="grid gap-2">
       <div class="w-64 p-4">
         <div class="media-card sticky top-4">

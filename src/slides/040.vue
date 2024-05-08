@@ -1,4 +1,4 @@
 <template>
-  <h1>Why use a CSS framework?</h1>
-  <h3>Forget about CSS</h3>
+  <h2>Let's look at that button again</h2>
+  <p class="lead">This time using Tailwind CSS</p>
 </template>

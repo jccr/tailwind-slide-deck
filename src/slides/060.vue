@@ -1,4 +1,3 @@
 <template>
-  <h1>Step 2</h1>
-  <h3>Forget about CSS</h3>
+  <iframe class="w-full h-[64vh] scale-125" src="https://tailwindcss.com/docs/reusing-styles#multi-cursor-editing" />
 </template>
