@@ -21,4 +21,8 @@
   <blockquote>
     "Reviewing UI changes in pull requests is a breeze now. It's easily readable, and as I become more familiar with the utility class compositions, I can even start imagining the components in my head." - Juan
   </blockquote>
+  
+  <blockquote>
+    "I like how you don't need to replicate the HTML structure / nesting again, in CSS" - Steven
+  </blockquote>
 </template>
