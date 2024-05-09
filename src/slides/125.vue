@@ -1,7 +1,7 @@
 <template>
-  <h1>What should we ask it to make for us?</h1>
+  <h1>What should we prompt it to make for us?</h1>
 
-  <p>Remember this description...</p>
+  <p>Recall this description earlier for the button...</p>
   <blockquote>
     A well-padded, moderately rounded indigo button with large, semi-bold white text. It has a small shadow, and its color becomes lighter when it is hovered over.
   </blockquote>
